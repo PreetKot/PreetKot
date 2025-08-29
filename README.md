@@ -56,12 +56,19 @@
 
 ---
 
-<p align="center" style="background:#f1f5f9;padding:1.5em 0;border-radius:1em;">
-  <b>🤝 Open to Collaboration!</b><br/>
-  <span>Let's build something cool together.<br/>
-  <a href="mailto:preet.sk18@gmail.com">preet.sk18@gmail.com</a> &nbsp;|&nbsp; <a href="https://github.com/PreetKot">GitHub</a> &nbsp;|&nbsp; <a href="https://preetkotmirefr.vercel.app/">Portfolio</a>
-  </span>
-</p>
+<div align="center" style="background: linear-gradient(90deg, #e0c3fc 0%, #8ec5fc 100%); padding: 1.7em 0 1.2em 0; border-radius: 1.2em; margin: 2em 0; box-shadow: 0 2px 16px #0001;">
+  <h2 style="margin-bottom:0.2em; font-size:1.7em; color:#222;">🤝 Let’s Collaborate!</h2>
+  <p style="font-size:1.1em; color:#333; margin:0 0 1em 0;">Open to freelance, internships, and cool open-source projects.<br>Let’s build something impactful together!</p>
+  <a href="mailto:preet.sk18@gmail.com" style="text-decoration:none; margin:0 0.5em;">
+    <img src="https://img.shields.io/badge/Email-Preet.sk18@gmail.com-0ea5a0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/PreetKot" style="text-decoration:none; margin:0 0.5em;">
+    <img src="https://img.shields.io/badge/GitHub-PreetKot-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://preetkotmirefr.vercel.app/" style="text-decoration:none; margin:0 0.5em;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
