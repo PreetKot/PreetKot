@@ -46,6 +46,47 @@ Quick highlights:
 ### Languages
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![SQL](https://img.shields.io/badge/-SQL-00758F?logo=postgresql&logoColor=white&style=flat)
+ 
+<p align="center">
+  <img src="./spiderman.gif" alt="Spiderman banner" width="900"/>
+</p>
+
+# 🚀 Preet Kotmire — Software Engineer & Problem Solver
+
+📍 Pune, India • ✉️ Preet.sk18@gmail.com • [GitHub](https://github.com/PreetKot) • [Portfolio](#) • [LinkedIn](#)
+
+---
+
+## About me
+
+I build reliable, user-first web applications and automation tools. Currently a BE student (Electronics & Telecommunication) with a strong interest in full-stack development, system design, and applied AI. I enjoy turning ambiguous problems into clean, maintainable solutions.
+
+Quick highlights:
+
+- CGPA 9.28 — Pune Institute of Computer Technology (2023–2027)
+- Hands-on experience with full-stack web apps, automation, and real-time systems
+- Led and shipped projects for NGOs and student communities; incoming summer intern at BNY (2026)
+
+---
+
+## Selected Experience
+
+- **Secretary — GameDevUtopia** (2025–26)
+  - Led event coordination for 100+ students across tech, design, and admin teams for Glitched 2025.
+
+- **Web Development Intern — Gharpan NGO** (2025, ongoing)
+  - Developing a scalable orphanage management system with workflow automation and secure data tracking (reduced manual overhead ≈50%).
+
+- **Incoming Summer Intern — BNY** (2026)
+  - Selected via campus recruitment (top 1% of applicants) for strengths in DSA, OOP and system design.
+
+---
+
+## Tech stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![SQL](https://img.shields.io/badge/-SQL-00758F?logo=postgresql&logoColor=white&style=flat)
 
 ### Frontend
 
@@ -98,5 +139,3 @@ If you'd like, I can:
 ---
 
 <!-- Profile README: end -->
-
-```
