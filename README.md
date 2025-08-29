@@ -1,61 +1,48 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="stylized header" width="1000"/>
+  <img src="https://raw.githubusercontent.com/PreetKot/PreetKot/main/coding.gif" alt="coding banner" width="700"/>
 </p>
 
-# Preet Kotmire
+<p align="center">
+  <img src="./assets/title.svg" alt="Preet Kotmire" width="600"/>
+</p>
 
-Crafting code by day, cracking challenges by night.
-
----
-
-I am a full-stack Software Engineer passionate about building scalable, responsive, and user-centric web applications. Skilled in React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, MongoDB, PostgreSQL, and experienced with MERN stack development, Express.js, Firebase Auth, and ORMs. I focus on delivering clean, efficient code and seamless digital experiences. I'm expanding my expertise in cloud technologies, API development, and data science with hands-on experience in Python and data tools.
-
-[Get Resume](https://preetkotmirefr.vercel.app/PreetKotmireResume.pdf) • [Email](mailto:preet.sk18@gmail.com) • [GitHub](https://github.com/PreetKot)
+<p align="center">
+  <b>Full-stack developer. Loves clean code, cool UIs, and building things that matter.</b>
+</p>
 
 ---
 
-## Selected Projects
-
-- **Quick Court** — Real-time multi-sport court booking platform with transactional locking and conflict-free scheduling.
-- **Droply** — Secure file storage and sharing system inspired by Dropbox; focused on access controls and simple UX.
-- **FinTrack** — Privacy-first finance tracker with AI-powered categorization and insights.
-- **Persona-Driven Document Intelligence** — Offline PDF intelligence tool that extracts persona- and task-specific insights.
-
-Each project has tests, deployment notes, and a short walkthrough — ping me if you want direct links.
-
----
-
-## Skills & Tools
-
-- Frontend: React, Next.js, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS
-- Backend: Node.js, Express, MongoDB, PostgreSQL, Prisma
-- Languages: JavaScript, TypeScript, Python, C++, C
-- Tools: Git, Docker, Vercel, Netlify, VS Code
+<p align="center">
+  <!-- Tech stack icons row -->
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-31648F?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
-## Experience & Education (short)
-
-- Secretary — GameDevUtopia (2025–26) — led event coordination for 100+ students.
-- Web Development Intern — Gharpan NGO (2025, ongoing) — built scalable orphanage management workflows.
-- Incoming Summer Intern — BNY (2026)
-
-- BE Electronics & Telecommunication — Pune Institute of Computer Technology (2023–2027) — CGPA 9.28
+<p align="center">
+  <b>🏆 Awards</b><br/>
+  <img src="https://img.shields.io/badge/2nd%20Runner--up--Abhivyakti-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Odoo%20Hackathon%20Finalist-FFD700?style=flat-square"/>
+</p>
 
 ---
 
-## Awards
-
-- 2nd Runner-up — Abhivyakti (National Paper Presentation)
-- Finalist — Odoo Hackathon 2025 (top 20 of ~19,000)
-
----
-
-If you'd like, I can:
-
-- Add per-project links, screenshots and quick demos
-- Export this README as a compact GitHub profile bio
-- Optimize and convert GIF banners to webp for faster loading
+<p align="center" style="background:#f1f5f9;padding:1.5em 0;border-radius:1em;">
+  <b>🤝 Open to Collaboration!</b><br/>
+  <span>Let's build something cool together.<br/>
+  <a href="mailto:preet.sk18@gmail.com">preet.sk18@gmail.com</a> &nbsp;|&nbsp; <a href="https://github.com/PreetKot">GitHub</a>
+  </span>
+</p>
 
 ---
 
