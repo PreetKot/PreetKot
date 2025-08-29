@@ -49,22 +49,23 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40"/></td>
     </tr>
     <tr><td colspan="8">&nbsp;</td></tr>
-    <tr>
-      <td align="center" colspan="5"><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/></td>
-      <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/></td>
-      <td><img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel"/></td>
-    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin: 1.5em 0 2em 0;">
+  <b>Tools</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin:0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin:0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin:0 10px;"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" style="margin:0 10px;"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel" style="margin:0 10px;"/>
+</div>
   </table>
 </div>
 <!-- GitHub Stats Section -->
 <div align="center" style="margin:2em 0 1em 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=PreetKot&show_icons=true&theme=tokyonight&hide_border=true" alt="Preet's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetKot&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=PreetKot&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
 ---
