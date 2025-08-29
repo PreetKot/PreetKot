@@ -44,44 +44,34 @@ Let’s connect and build something awesome together!
 
 
 
-<!-- Tech Stack -->
+
+<!-- Power-Ups (Tech Stack) -->
 <div align="center" style="margin: 2.5em 0 1.5em 0;">
-  <b style="font-size:1.15em;">Frontend</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="44" style="margin:0 18px;"/>
-</div>
-
-<div align="center" style="margin: 2em 0 1.5em 0;">
-  <b style="font-size:1.15em;">Backend</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="44" style="margin:0 18px;"/>
-</div>
-
-<div align="center" style="margin: 2em 0 1.5em 0;">
-  <b style="font-size:1.15em;">Languages</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="44" style="margin:0 18px;"/>
-</div>
-
-<div align="center" style="margin: 2em 0 2em 0;">
-  <b style="font-size:1.15em;">Tools</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" style="margin:0 18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" style="margin:0 18px;"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" style="margin:0 18px;"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel" style="margin:0 18px;"/>
+  <b style="font-size:1.2em;">🕹️ Power-Ups</b><br/>
+  <span style="font-size:1em; color:#888;">(My dev inventory)</span><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" style="margin:0 14px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" style="margin:0 14px;"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" style="margin:0 14px;"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel" style="margin:0 14px;"/>
 </div>
   </table>
 </div>
@@ -94,10 +84,27 @@ Let’s connect and build something awesome together!
 ---
 
 
+
+<!-- Trophies (Achievements) -->
 <div align="center" style="margin: 2em 0;">
-  <b>🏆 Awards</b><br/>
-  <img src="https://img.shields.io/badge/2nd%20Runner--up--Abhivyakti-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Odoo%20Hackathon%20Finalist-FFD700?style=flat-square"/>
+  <b style="font-size:1.2em;">🏆 Trophies</b><br/>
+  <img src="https://img.shields.io/badge/2nd%20Runner--up--Abhivyakti-blueviolet?style=for-the-badge&logo=medal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo%20Hackathon%20Finalist-FFD700?style=for-the-badge&logo=trophy&logoColor=white"/>
+</div>
+
+---
+
+<!-- Levels Unlocked (Projects) -->
+<div align="center" style="margin: 2em 0;">
+  <b style="font-size:1.2em;">🕹️ Levels Unlocked</b><br/>
+  <span style="color:#888;">(Featured Projects)</span><br/>
+  <a href="https://github.com/PreetKot/Project1" style="text-decoration:none; margin:0 0.5em;">
+    <img src="https://img.shields.io/badge/Project%20One-22223b?style=for-the-badge&logo=github&logoColor=white" alt="Project One"/>
+  </a>
+  <a href="https://github.com/PreetKot/Project2" style="text-decoration:none; margin:0 0.5em;">
+    <img src="https://img.shields.io/badge/Project%20Two-22223b?style=for-the-badge&logo=github&logoColor=white" alt="Project Two"/>
+  </a>
+  <!-- Add more projects as needed -->
 </div>
 
 ---
