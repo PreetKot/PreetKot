@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PreetKot/PreetKot/main/spiderman.gif" alt="Spiderman banner" width="700"/>
+  <img src="https://raw.githubusercontent.com/PreetKot/PreetKot/main/coding.gif" alt="coding banner" width="700"/>
 </p>
 
 # 🚀 Preet Kotmire — Software Engineer & Problem Solver
